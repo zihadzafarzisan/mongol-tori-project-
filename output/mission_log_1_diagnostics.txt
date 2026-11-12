@@ -1,0 +1,4 @@
+log line 78: missing or invalid GPS fix
+log line 97: missing or invalid GPS fix
+log line 110: missing or invalid GPS fix
+log line 136: missing or invalid GPS fix

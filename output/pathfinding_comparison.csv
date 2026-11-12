@@ -1,0 +1,7 @@
+map,algorithm,found,cost,steps,explored,median_ms
+map1_easy,astar,True,72,72,851,4.86
+map1_easy,dijkstra,True,72,72,1234,6.444
+map2_harder,astar,True,212,156,427,1.767
+map2_harder,dijkstra,True,212,156,452,1.86
+map3_no_path,astar,False,,,1542,8.422
+map3_no_path,dijkstra,False,,,1542,8.705
