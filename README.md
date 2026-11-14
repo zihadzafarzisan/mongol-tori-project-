@@ -14,7 +14,7 @@ rover-recruitment-24204274/
     `-- task4.pdf
 ```
 
-The handwritten PDFs were split from `MT_ZIHAD_ZAFAR_ZISAN_24204274.pdf`: Task 1 uses pages 1-9, Task 3 pages 10-12, and Task 4 pages 13-14. The upside-down scans on source pages 2, 4, and 6 are upright in the Task 1 PDF. The original combined PDF is retained.
+The handwritten PDFs were split from `Handwritten_Tasks.pdf`: Task 1 uses pages 1-9, Task 3 pages 10-12, and Task 4 pages 13-14. The upside-down scans on source pages 2, 4, and 6 are upright in the Task 1 PDF. The original combined PDF is retained.
 
 Task 2 contains an identical copy of the standalone root `light.py`. From this repository's root, run the submission script with the supplied input files:
 
