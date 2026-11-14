@@ -1,6 +1,29 @@
 # Mongol-Tori autonomy coding tasks
 
-Implemented Task 2 and the optional pathfinding bonus. Tasks 1, 3, and 4 still require your handwritten work. No code was used to solve Task 1.
+The submission is organized under `rover-recruitment-24204274/`:
+
+```text
+rover-recruitment-24204274/
+|-- task1/
+|   `-- task1_handwritten.pdf
+|-- task2/
+|   `-- light.py
+|-- task3/
+|   `-- task3.pdf
+`-- task4/
+    `-- task4.pdf
+```
+
+The handwritten PDFs were split from `MT_ZIHAD_ZAFAR_ZISAN_24204274.pdf`: Task 1 uses pages 1-9, Task 3 pages 10-12, and Task 4 pages 13-14. The upside-down scans on source pages 2, 4, and 6 are upright in the Task 1 PDF. The original combined PDF is retained.
+
+Task 2 contains an identical copy of the standalone root `light.py`. From this repository's root, run the submission script with the supplied input files:
+
+```powershell
+python rover-recruitment-24204274/task2/light.py mission_log_1.csv targets.csv
+python rover-recruitment-24204274/task2/light.py mission_log_2.csv targets.csv
+```
+
+The remaining files support development, testing, and the optional pathfinding bonus. Task 1's handwritten calculations were preserved; no code was used to solve them.
 
 ## Task 2: Status lights
 
